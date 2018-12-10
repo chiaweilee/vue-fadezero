@@ -1,4 +1,7 @@
 ## Vue-Fadezero
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/chiaweilee/vue-fadezero.svg)](https://greenkeeper.io/)
+
 ---
 
 ### Install
